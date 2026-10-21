@@ -1,6 +1,6 @@
 #include <Adafruit_NeoPixel.h>
 
-#define LED_PIN    PD2 // You can use PD2, it's a good choice
+#define LED_PIN    PD2 
 #define NUM_LEDS   6
 
 int tid = 25;
